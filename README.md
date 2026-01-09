@@ -1,8 +1,8 @@
-# Тестовое задание Junior Fullstack-Аналитик
+# Тестовое задание Junior Fullstack-Аналитик Effective Mobile
 
 ## Задача 1: BPMN диаграмма процесса выдачи оборудования
 Описание процесса и выявленные противоречия.
-![BPMN Diagram](bpn.png)
+![BPMN Diagram](bpmn1.png)
 
 ## Задача 2: Публикация товаров на маркетплейсе
 **User Story:**  
