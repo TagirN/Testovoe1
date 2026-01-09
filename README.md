@@ -38,6 +38,6 @@
 ![Activity Diagram](Activity.png)
 
 ## Задача 3: API Регистрации
-Спроектированный метод `POST /api/v1/register`.
+Спроектированный метод `POST /api/register`.
 ![API](Registration-1.png)
 ![Activity Diagram](Activity_API.png)
